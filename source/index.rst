@@ -5,16 +5,14 @@
 
 Python后端成长路线
 =======================================
+.. note:
+    成为Python后端开发中遇到的点点滴滴的坑和经验记录。
 
+目录:
+^^^^^
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-目录
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   beginning/index
+   python_web/index
