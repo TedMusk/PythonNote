@@ -1,7 +1,7 @@
 .. _database-overview:
 
-Python入门
-==========
+Python Web入门
+=================
 
 当当当，人生苦短，快用Python;
 
@@ -10,4 +10,5 @@ Python入门
     :maxdepth: 2
     :numbered: 2
 
-    01_Python
+    01_PythonWeb
+
