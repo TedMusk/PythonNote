@@ -1,10 +1,10 @@
 .. _database-overview:
 
-Python Web入门
+Python Web
 =================
 
-当当当，人生苦短，快用Python;
-
+一个完整的Web应用的后端部分包括以下内容：
+服务器（Nginx等）、应用（Flask等）、缓存（Redis等）、数据库（Postgre等）
 
 .. toctree::
     :maxdepth: 2
