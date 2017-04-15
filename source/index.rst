@@ -12,7 +12,7 @@ Python Full Stack
 目录:
 ^^^^^
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :glob:
 
    beginning/index
