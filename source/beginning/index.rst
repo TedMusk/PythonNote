@@ -7,7 +7,8 @@ Python入门
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :glob:
 
-    01_Python
+    01_Python_introduction
+    

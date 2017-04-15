@@ -6,7 +6,7 @@ Python Web 框架
 Python Web 框架介绍
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :glob:
 
     01_Django
