@@ -1,14 +1,13 @@
 .. _database-overview:
 
-Python基础编程
+测试
 ==========
 
-Python基础
+测试
 
 
 .. toctree::
     :maxdepth: 4
     :glob:
 
-    01_Python_introduction
     

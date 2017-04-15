@@ -9,6 +9,8 @@ Python Full Stack
 
     Full Stack in Python.
 
+个人网站：http://tedmusk.github.io
+
 目录:
 ^^^^^
 .. toctree::
@@ -17,6 +19,7 @@ Python Full Stack
 
    beginning/index
    Web_Development/index
+   PerformanceP/index
    Web_App_Deployment/index
    Database/index
    Data_analysis/index
@@ -25,3 +28,5 @@ Python Full Stack
    Spider/index
    Algorithm/index
    Design Patterns/index
+   Test/index
+   Python Source Code/index
