@@ -9,8 +9,6 @@ Python Full Stack
 
     Full Stack in Python.
 
-个人网站：http://tedmusk.github.io
-
 目录:
 ^^^^^
 .. toctree::
