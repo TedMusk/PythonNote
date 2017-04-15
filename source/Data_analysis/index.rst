@@ -1,6 +1,6 @@
 .. _database-overview:
 
-Python与数据分析
+数据分析
 =================
 
 Python与数据分析
