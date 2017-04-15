@@ -1,14 +1,15 @@
 .. _database-overview:
 
-Python入门
+Python从入门到放弃
 ==========
 
-Python入门篇
+Python从入门到放弃
 
 
 .. toctree::
     :maxdepth: 4
     :glob:
 
-    01_Python_introduction
+    Introduction/index
+    Advanced/index
     

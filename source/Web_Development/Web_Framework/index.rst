@@ -9,9 +9,11 @@ Python Web 框架介绍
     :maxdepth: 4
     :glob:
 
-    01_Django
-    02_Flask
-    03_Bottle
-    04_Pyramid
-    05_other_framework
+    Django
+    Flask
+    Torndao
+    Bottle
+    Pyramid
+    other_framework
+
 
