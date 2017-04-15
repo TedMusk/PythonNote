@@ -7,8 +7,10 @@ Python从入门到放弃
 
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 2
     :glob:
+
+    
 
     Introduction/index
     Advanced/index

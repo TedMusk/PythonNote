@@ -11,4 +11,5 @@ Python高级技巧
     :glob:
 
     gevent
+    twisted
     
