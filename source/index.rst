@@ -7,7 +7,7 @@ Python Full Stack
 =======================================
 .. note::
 
-    Full Stack Python
+    Full Stack in Python.
 
 目录:
 ^^^^^
