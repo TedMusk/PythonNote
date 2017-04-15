@@ -3,7 +3,7 @@
 Python入门
 ==========
 
-当当当，人生苦短，快用Python;
+Python入门篇
 
 
 .. toctree::

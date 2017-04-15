@@ -1,14 +1,14 @@
 .. _database-overview:
 
-Web 安全
+Server security
 =================
 
-Web 安全
+Server security
 
 .. toctree::
     :maxdepth: 2
     :glob:
 
-    Public key infrastructrue
+    Public key infrastructure
     Firewalls
 

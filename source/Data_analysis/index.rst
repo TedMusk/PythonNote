@@ -1,9 +1,9 @@
 .. _database-overview:
 
-Python数据分析
+Python与数据分析
 =================
 
-Python数据分析
+Python与数据分析
 
 .. toctree::
     :maxdepth: 2

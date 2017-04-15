@@ -22,3 +22,6 @@ Python Full Stack
    Data_analysis/index
    Web APIs/index
    Security/index
+   Spider/index
+   Algorithm/index
+   Design Patterns/index
