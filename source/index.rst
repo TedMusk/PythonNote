@@ -19,14 +19,14 @@ Python Full Stack
 
    beginning/index
    Web_Development/index
-   PerformanceP/index
+   Performance/index
+   Security/index 
    Web_App_Deployment/index
    Database/index
-   Data_analysis/index
-   Web APIs/index
-   Security/index
-   Spider/index
-   Algorithm/index
-   Design Patterns/index
    Test/index
+   Web APIs/index
+   Spider/index
+   Data_analysis/index
+   Algorithm/index
+   Design Patterns/index 
    Python Source Code/index
