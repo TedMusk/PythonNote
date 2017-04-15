@@ -19,3 +19,6 @@ Python Full Stack
    Web_Development/index
    Web_App_Deployment/index
    Database/index
+   Data_analysis/index
+   Web APIs/index
+   Security/index
