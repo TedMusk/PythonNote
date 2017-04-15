@@ -5,8 +5,7 @@ Python与设计模式
 
     Python与设计模式
 
-目录:
-^^^^^
+
 .. toctree::
    :maxdepth: 4
    :glob:

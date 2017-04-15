@@ -5,8 +5,7 @@
 
     数据结构与算法
 
-目录:
-^^^^^
+
 .. toctree::
    :maxdepth: 4
    :glob:
