@@ -3,17 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Python后端成长路线
+Python Full Stack
 =======================================
 .. note::
 
-    成为Python后端开发中遇到的点点滴滴的坑和经验记录。
+    Full Stack Python
 
 目录:
 ^^^^^
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :glob:
 
    beginning/index
-   python_web/index
+   Web_Development/index
+   Web_App_Deployment/index
