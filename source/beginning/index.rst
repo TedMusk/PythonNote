@@ -8,6 +8,6 @@ Python入门
 
 .. toctree::
     :maxdepth: 2
-    :numbered: 2
+    :glob:
 
     01_Python

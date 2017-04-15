@@ -8,7 +8,7 @@ Python Web 开发
 
 .. toctree::
     :maxdepth: 2
-    :numbered: 2
+    :glob:
 
     Web_Framework/index
     02_Template_Engines
