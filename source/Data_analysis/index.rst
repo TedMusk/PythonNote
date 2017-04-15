@@ -1,14 +1,16 @@
 .. _database-overview:
 
-任务队列
+Python数据分析
 =================
 
-任务队列介绍
+Python数据分析
 
 .. toctree::
     :maxdepth: 2
     :glob:
 
-    Celery
-    Redis_Queue
+    Pandas
+    Numpy
+    SciPy
+    Blaze
 

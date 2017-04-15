@@ -18,3 +18,4 @@ Python Full Stack
    beginning/index
    Web_Development/index
    Web_App_Deployment/index
+   Database/index
