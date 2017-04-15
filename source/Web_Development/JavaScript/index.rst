@@ -9,8 +9,9 @@ JavaScript介绍
     :maxdepth: 2
     :glob:
 
+    
     AngularJS
-    React
+    react
 
 
 
