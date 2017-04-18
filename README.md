@@ -1,3 +1,64 @@
-### Python后端成长路线
+## Python Note
 
-##### 有感于Python学习过程中，Google出的资料多而繁杂，所以还不如自己整理一下，弄成书籍的格式，方便查阅。
+### 目录：
+- Python从入门到精通
+  - Python基础编程
+    - Python学习路线
+  - Python高级技巧
+    - 基于libev的并发库：Gevent
+    - Twisted与异步编程
+- Python Web开发
+  - Python Web架构
+    - Django
+    - Flask
+    - Torndao
+    - Bottle
+    - Pyramid
+    - 其他框架
+  - 模板引擎
+    - Jinja2
+    - Django Templates
+    - Mako
+  - Web页面优化
+    - HTML
+    - CSS
+    - Bootstrap
+  - JavaScript
+    - AngularJS
+    - React
+  - 任务队列
+    - Celery
+    - Redis Queue
+- 性能
+- Web安全
+  - Server security
+    - Public key infrastructure
+    - Firewalls
+  - Web应用安全
+    - Cross Site Request Forgery
+- Web APIs
+  - REST
+  - Webhooks
+  - Bots
+- Web应用部署
+  - Web服务器
+- 数据库
+  - MySQL
+  - PostgreSQL
+  - SQLite
+  - SQLAlchemy
+  - Django ORM
+  - Redis
+  - MongoDB
+  - Apache Cassandra
+- 测试
+- 爬虫
+  - Scrapy
+   - Scrapy 介绍
+- 数据分析
+  - Pandas
+  - SciPy
+  - Blaze
+- 数据结构与算法
+- 设计模式
+- Python源码剖析
