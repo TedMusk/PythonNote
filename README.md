@@ -1,4 +1,4 @@
-## Python Note
+## Python Note http://pythonnote.readthedocs.io/en/latest/
 
 ### 目录：
 - Python从入门到精通
